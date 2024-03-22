@@ -43,21 +43,21 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 **RTL realization**
+### Truth Table:
 
-![image](https://github.com/keerthanapillaram/BOOLEAN_FUNCTION_MINIMIZATION/assets/145743072/738b30cf-6b3d-404d-8125-14e86f5cf780)
+![image](https://github.com/keerthanapillaram/BOOLEAN_FUNCTION_MINIMIZATION/assets/145743072/89b083e7-5dbd-47c4-851a-6adf4d83bc46)
 
 
 **Output:**
 
 **RTL**
 
-![image](https://github.com/keerthanapillaram/BOOLEAN_FUNCTION_MINIMIZATION/assets/145743072/83a917f6-149c-4f51-bcba-507716159c48)
+![image](https://github.com/keerthanapillaram/BOOLEAN_FUNCTION_MINIMIZATION/assets/145743072/738b30cf-6b3d-404d-8125-14e86f5cf780)
 
 
 **Timing Diagram**
 
-![image](https://github.com/keerthanapillaram/BOOLEAN_FUNCTION_MINIMIZATION/assets/145743072/89b083e7-5dbd-47c4-851a-6adf4d83bc46)
-
+![image](https://github.com/keerthanapillaram/BOOLEAN_FUNCTION_MINIMIZATION/assets/145743072/83a917f6-149c-4f51-bcba-507716159c48)
 
 **Result:**
 
